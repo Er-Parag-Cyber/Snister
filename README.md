@@ -1,7 +1,3 @@
-![Screenshot (86)](https://github.com/Er-Parag-Cyber/Snister/assets/62016806/2ae7e4d2-26cc-44cc-ae62-6a137708a9d9)<p align="center">
-  <img src="https://github.com/PushpenderIndia/technowlogger/blob/master/img/technowlogger-logo.png" alt="Sinister Logo" width=200 height=200/>
-</p>
-
 <h1 align="center">Sinister</h1>
 
 <p align="center">
