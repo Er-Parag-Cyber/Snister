@@ -1,4 +1,4 @@
-<p align="center">
+![Screenshot (86)](https://github.com/Er-Parag-Cyber/Snister/assets/62016806/2ae7e4d2-26cc-44cc-ae62-6a137708a9d9)<p align="center">
   <img src="https://github.com/PushpenderIndia/technowlogger/blob/master/img/technowlogger-logo.png" alt="Sinister Logo" width=200 height=200/>
 </p>
 
@@ -54,7 +54,8 @@ On **30 May 2022**, Google has **removed less secure apps feature**, so instead 
 - Enable 2FA on your attacker gmail
 - Create App Specific Password
 - Use that `app specific password`, while creating payload. 
-- How to Create App Specific Password: [Click Here](https://support.google.com/mail/answer/185833?hl=en) 
+- How to Create App Specific Password: [Click Here](https://support.google.com/mail/answer/185833?hl=en)
+- For Creating An App Password In Gmail: [Click Here](https://myaccount.google.com/apppasswords?pli=1&rapt=AEjHL4NNBJ_HvRa3vH__Xiq87r0WIimG0hLnr2Xdf64oikZKdAh7a9POETWXYTpXWiASFwbrjItChNnCKq4Hi7oim3AMgPdQmDQauMmpgm2j01rPmBEm4sI)
 
 
 ## Tested On
