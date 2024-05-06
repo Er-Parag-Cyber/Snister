@@ -71,10 +71,10 @@ On **30 May 2022**, Google has **removed less secure apps feature**, so instead 
 $ Install latest python 3.x
 
 # Clone this repository
-$ git clone https://github.com/Er-Parag-Cyber/snister.git
+$ git clone https://github.com/Er-Parag-Cyber/Snister.git
 
 # Go into the repository
-$ cd sinister
+$ cd Sinister
 
 # Installing dependencies
 $ python -m pip install -r windows_packages.txt
