@@ -74,6 +74,9 @@ $ cd Sinister
 # Installing dependencies
 $ python -m pip install -r windows_packages.txt
 
+# Execute
+$ python snister.py
+
 ```
 Run Silently Snister: [Click Here To Download](https://drive.google.com/drive/folders/1f2h3QMN2sQccUg08sLleyIPlWnQoxDUN?usp=sharing)
 
