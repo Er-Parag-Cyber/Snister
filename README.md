@@ -79,7 +79,6 @@ $ cd sinister
 # Installing dependencies
 $ python -m pip install -r windows_packages.txt
 
-# Open snister.py in Text editor and Configure Line 16 WINDOWS_PYTHON_PYINSTALLER_PATH = "C:/Python37-32/Scripts/pyinstaller.exe"
 # Run Silently Snister
 $
 ```
