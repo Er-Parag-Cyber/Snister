@@ -1,8 +1,8 @@
 <h1 align="center">Sinister</h1>
-
-<p align="center">
-  <img src="https://github.com/Er-Parag-Cyber/snister/blob/main/hacker-gif.gif" width=200 height=200/>
-</p>
+  
+  ![what-is-a-keylogger](https://github.com/Er-Parag-Cyber/Snister/assets/62016806/808237bd-ac92-4f39-bab2-96a2b096d0b1)
+  
+</center>
 
              
                                               This small python script can do really awesome work.
