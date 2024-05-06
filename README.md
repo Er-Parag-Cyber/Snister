@@ -1,6 +1,5 @@
+![what-is-a-keylogger](https://github.com/Er-Parag-Cyber/Snister/assets/62016806/808237bd-ac92-4f39-bab2-96a2b096d0b1)
 <h1 align="center">Sinister</h1>
-  
-  ![what-is-a-keylogger](https://github.com/Er-Parag-Cyber/Snister/assets/62016806/808237bd-ac92-4f39-bab2-96a2b096d0b1)
 
 
 Sinister is Keylogger Generator for Windows/Linux, which sends key-logs & screenshot via email with other juicy target info written in Python 3.
