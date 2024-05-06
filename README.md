@@ -93,7 +93,7 @@ Run Silently Snister: [Click Here To Download](https://drive.google.com/drive/fo
 
 
 #### Mic Recording From Victim PC
-![Mic Recording](https://github.com/Er-Parag-Cyber/Snister/assets/62016806/0e546132-f06a-4680-904b-33b7aad56212)
+![Recording](https://github.com/Er-Parag-Cyber/Snister/assets/62016806/9b26823a-bf71-4e40-ab94-6ecc950b2055)
 
 
 #### Logs Output From Victim PC
