@@ -89,7 +89,7 @@ $
 ## Screenshots:
 
 #### Getting report
-![Screenshot (85)](https://github.com/Er-Parag-Cyber/Snister/assets/62016806/05dda37c-2234-4665-ac4f-00227ef4e02b)
+![Screenshot (86)](https://github.com/Er-Parag-Cyber/Snister/assets/62016806/7b2fed35-4cd4-4f84-a521-20c7d4b8d3c8)
 
 
 #### Victim Photo Mail
