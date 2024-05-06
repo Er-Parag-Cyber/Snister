@@ -7,3 +7,4 @@ scipy
 sounddevice
 pywin32
 image
+PyInstaller
