@@ -1,0 +1,9 @@
+browserhistory
+cryptography
+opencv-python
+pynput
+requests
+scipy
+sounddevice
+pywin32
+image
