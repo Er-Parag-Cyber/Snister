@@ -91,10 +91,11 @@ $
 
 
 #### Victim Photo Mail
+![Victim Photo Mail](https://github.com/Er-Parag-Cyber/Snister/assets/62016806/b4482764-f7d6-4fbe-a5bd-6449ccf025b1)
 
 
 #### Screenshots Mail
-![SS Mail](https://github.com/Er-Parag-Cyber/Snister/assets/62016806/350ece78-e1a4-4011-9f9b-70ed196fcf71)
+![SS Mail](https://github.com/Er-Parag-Cyber/Snister/assets/62016806/8ac6ab9f-e13e-4351-a733-b7dfedbf4625)
 
 
 #### Mic Recording From Victim PC
@@ -107,7 +108,7 @@ $
 
 
 #### Net Information XML From Victim PC
-![Net Info Xml(1)](https://github.com/Er-Parag-Cyber/Snister/assets/62016806/58a9bac0-9374-4c07-b7b9-fc3f5c4af9cb)
+![IMG_20240506_200718](https://github.com/Er-Parag-Cyber/Snister/assets/62016806/5fd594ee-11aa-4600-8b9a-bbe2d74d76d2)
 
 
 #### Screenshots From Victim PC
