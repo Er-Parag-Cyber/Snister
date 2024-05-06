@@ -90,7 +90,6 @@ $
 
 
 #### Victim Photo Mail
-![Victim Photo Mail](https://github.com/Er-Parag-Cyber/Snister/assets/62016806/a3ecc3f5-092f-4f2c-9158-70c8b43752ff)
 
 
 #### Screenshots Mail
